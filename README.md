@@ -7,7 +7,7 @@ The website, **[itcouncil.in](https://itcouncil.in/)**, is currently ranked **#1
 
 ---
 
-## Features ðŸŒŸ  
+## Features
 - **SEO Optimization:** Carefully structured content and metadata for enhanced search engine performance.  
 - **Lead Generation:** Integrated forms to collect inquiries and manage leads effectively.  
 - **Responsive Design:** Seamlessly adapts to different screen sizes, including desktops and mobile devices.  
@@ -16,12 +16,12 @@ The website, **[itcouncil.in](https://itcouncil.in/)**, is currently ranked **#1
 
 ---
 
-## Screenshot ðŸ“¸  
+## Screenshot  
 ![IT Council Website](https://github.com/devjadiya/ITCouncil/blob/main/assets/IT_Council_Tech_Startup_desktop.png?raw=true)  
 
 ---
 
-## Technologies Used ðŸ› ï¸  
+## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Google Sheets API for dynamic data management  
 - **Hosting:** Google Firebase  
@@ -33,11 +33,4 @@ The website, **[itcouncil.in](https://itcouncil.in/)**, is currently ranked **#1
 [Visit the Website](https://itcouncil.in/)  
 
 ---
-
-## Note  
-This website is currently a static platform with no active updates or developments planned.  
-
----  
-
-**Owner & Developer:**  
-[Your Name]  
+ 
